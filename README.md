@@ -1,2 +1,2 @@
-# Kaggle
-Push from Kaggle to GitHub
+# Kaggle Work Repository
+I am going to push directly from kaggle to Github.
